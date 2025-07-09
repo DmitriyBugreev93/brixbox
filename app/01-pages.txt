@@ -1,0 +1,9 @@
+1-index (Home) +
+2-products 
+3-Latest Releases +
+4-Coming sonn +
+5-Promotions +
+6-Guest Builders +
+7-Wishlist
+9-Reward Points
+10-Delivery (shipping-info) +
